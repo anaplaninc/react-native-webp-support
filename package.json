@@ -1,11 +1,17 @@
 {
   "name": "react-native-webp-support",
   "version": "0.4.0",
-  "keywords": ["react-native", "webp"],
+  "keywords": [
+    "react-native",
+    "webp"
+  ],
+  "homepage": "https://github.com/react-native-community/react-native-webview#readme",
   "bugs": {
     "url": "https://github.com/TGPSI/react-native-webp-support/issues"
   },
   "author": {
     "name": "Daniel Basedow, fork by @TGPSKI"
-  }
+  },
+  "license": "MIT",
+  "summary": "WEBP support for iOS"
 }
